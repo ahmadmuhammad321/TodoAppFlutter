@@ -1,6 +1,6 @@
 # todo_hive
 
-A new Flutter project.
+A ToDo App made using Flutter for Android with Hive as Local Database.
 
 ## Getting Started
 
