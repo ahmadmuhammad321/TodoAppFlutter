@@ -5,7 +5,7 @@ A ToDo App made using Flutter for Android with Hive as Local Database.
 ## Screenshots
 [![Screenshot-20230706-194432.png](https://i.postimg.cc/Qtb3Sfmv/Screenshot-20230706-194432.png)](https://postimg.cc/tZYw4tLz)
 
-[![Screenshot-20230706-194450.png](https://i.postimg.cc/Kv42rrMs/Screenshot-20230706-194450.png)](https://postimg.cc/QHLwj7Sp)
+
 
 [![Screenshot-20230706-194457.png](https://i.postimg.cc/2SZNgkTQ/Screenshot-20230706-194457.png)](https://postimg.cc/k2qHbd0G)
 
